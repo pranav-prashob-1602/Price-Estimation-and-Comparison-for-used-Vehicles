@@ -34,8 +34,7 @@ Kaggle Link - https://www.kaggle.com/code/swati2212/quickr-car-price
 5. Deployment
 
 # Architecture / Model
-
-
+![image](https://user-images.githubusercontent.com/64148795/164249931-e9bc0c5b-7fe1-4aaa-8be6-1ed46bac158f.png)
 
 
 # Predicted Output
@@ -48,7 +47,6 @@ The Car Price Prediction System predicts the price of the car with the given inp
 - Numpy - https://www.w3schools.com/python/numpy/default.asp
 
 # Sample Output
-
-
-
+![image](https://user-images.githubusercontent.com/64148795/164250245-8433ce90-8b95-435c-ad23-f4569705be7d.png)
+![image](https://user-images.githubusercontent.com/64148795/164250269-55c34da8-9881-4f15-a323-4ee45d890078.png)
 
