@@ -34,7 +34,8 @@ Kaggle Link - https://www.kaggle.com/code/swati2212/quickr-car-price
 5. Deployment
 
 # Architecture / Model
-![image](https://user-images.githubusercontent.com/64148795/164249931-e9bc0c5b-7fe1-4aaa-8be6-1ed46bac158f.png)
+![image](https://user-images.githubusercontent.com/64148795/164775505-caaccde4-6bc0-45e2-8b80-0077db9d352e.png)
+
 
 
 # Predicted Output
